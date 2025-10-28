@@ -6,7 +6,7 @@ class Main {
         fun main(args: Array<String>) {
             println("==================================================")
             println("Домашнее задание: 1.2. Отличия от Java")
-            println("Исполнитель: Paul Mustername") 
+            println("Исполнитель: Paul Sengel") 
             println("==================================================")
 
             println("\n--- Задача №1. Денежные переводы ---")
